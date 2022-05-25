@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">mussaify</string>
+    <string name="action_settings">Log out</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Mohamud Mussa Bugsnag</string>
+    <string name="second_fragment_label">Buy Bugsnag</string>
+    <string name="next">Login to Bugsnag</string>
+    <string name="previous">Add to Cart</string>
+
+    <string name="hello_first_fragment">Hi, this is my first Bugsnag app</string>
+    <string name="hello_second_fragment">Bugsnag will change your life, click on Add to cart to buy it today</string>
+</resources>
